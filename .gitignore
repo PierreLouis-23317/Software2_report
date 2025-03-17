@@ -1,0 +1,22 @@
+# Fichiers temporaires de LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.fdb_latexmk
+*.fls
+
+# PDF généré
+*.pdf
+
+# Fichiers de compilation spécifiques
+*.synctex
+*.nav
+*.snm
