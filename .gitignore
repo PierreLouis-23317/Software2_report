@@ -14,7 +14,7 @@
 *.fls
 
 # PDF généré
-*.pdf
+# *.pdf
 
 # Fichiers de compilation spécifiques
 *.synctex
